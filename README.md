@@ -1,8 +1,8 @@
-_Just Watch-Web Scrapping_
+__Just Watch-Web Scrapping__
 
 Overview This project is aimed at scraping data from the JustWatch website, a popular platform for streaming content information. The data scraped includes information about movies, TV shows, and streaming platforms available on JustWatch.
 
-#Requirements
+**Requirements**
 
 Python 3.x
 Beautiful Soup 4
