@@ -1,4 +1,4 @@
-#Just Watch-Web Scrapping
+_Just Watch-Web Scrapping_
 
 Overview This project is aimed at scraping data from the JustWatch website, a popular platform for streaming content information. The data scraped includes information about movies, TV shows, and streaming platforms available on JustWatch.
 
